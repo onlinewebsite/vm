@@ -1,0 +1,21 @@
+{
+    "name": "Ammarloo/vmware",
+    "description": "vmware Api Php 8",
+    "require": {
+        "php": "8.*",
+        "guzzlehttp/guzzle": "7.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "heidar ammarloo",
+            "email": "web6463@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ammarloo\\VMWare\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
